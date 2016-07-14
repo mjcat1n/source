@@ -236,9 +236,9 @@
     var botCreatorIDs = ["3851534", "4105209"];
 
     var basicBot = {
-        version: "2.8.17",
+        version: "",
         status: false,
-        name: "basicBot",
+        name: "ognBOT",
         loggedInID: null,
         scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
